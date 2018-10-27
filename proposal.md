@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Enrolling in classes can be stressful and even more so when you are placed on the waitlist. We want to improve this process by providing insight to the students on the waitlist about their current standing and how many people are in front of them. 
 
 ## Questions to answer for Exercise #2
 
@@ -63,7 +62,7 @@ Enter Class: **drop down option**
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+We wou
 
 ## Edit and Submit this file and any figures referenced by this document.
 
