@@ -24,7 +24,7 @@ and missed deadlines.
 
 ## How will will communicate difficulties with a task assigned to us
 
-1. We can talk via text message as well as after class in order to figure out how to solve difficult tasks our group is faced with
+1. We can talk via text message as well as after class in order to figure out how to solve difficult tasks our group is faced with.
 
 2. We can also use email as a back up tool if one or more team mates is unavailable via text messages.
 
