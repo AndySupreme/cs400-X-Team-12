@@ -7,7 +7,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: AndySupreme.   name 1: Andy Boho
+       * GitHub username 1: AndySupreme,   name 1: Andy Boho
        * GitHub username 2: Nima1007,      name 2: Nima Cheraghi
        * GitHub username 3: Madson3,       name 3: Zachary Madson
        * GitHub username 4: tzheng24,      name 4: Tian Zheng
