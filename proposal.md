@@ -49,6 +49,12 @@ Case 3: "Waitlist full, You were not enrolled."
 
 Class Number, Class Maximum Size, Student Name, Student Class (Freshman, Sophomore, etc.), Student Major, Student Standing.
 
+Our Main Class will create a priority queue that will use a text file input of the current list of students enrolls in the several classes we have in the program. Once the priority queue is created, students will be able to input their data and see if they are enrolled or waitlist. If they are waitlisted, they will be told how many students are in front of them. That calculation is based on their class ranking, pre-requisites, and major. 
+
+We will be using a priority queue that uses a Linked List data structure. The priority queue will have several common methods that are in most queues. There will be an enqueue, dequeue, an isEmpty. It will also have a simple weighting algorithm within enqueue that will rank the priority of each student. If a student is both a senior and within that major, they are given a rank of 2. If a student is a senior/junior, or is within that major, they are given a ranking of 1. If a student only has met the pre-requisites, they are given a ranking of 0. Lastly, if a student does not meet the pre-requisites, then they are not put in the waitlist.
+
+Testing for the priority queue will entail several types of tests for each method in the class. We will test isEmpty for it's basic functionality. We will test enqueue for its ranking algorithm and put several students in the queue with different characterstics (different ages, majors, whether or not they have the pre-requisites. Dequeue will test for both students being put into the class and for those that drop out of the waitlist. 
+
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 The program front end will ask the user to put their name, class (freshman, sophomore), major, pre-requisites, and class they'd like to enroll in. Example of how it would look down below:
