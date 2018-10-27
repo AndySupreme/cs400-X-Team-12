@@ -1,4 +1,4 @@
-# X-Team 12 Project Proposal
+# X-Team 12 Course Enrollment
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -36,22 +36,30 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Course Enrollment 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The student's status.
+Case 1: "You were successfully enrolled in class x"
+Case 2: "You were placed on waitlist, there are ___ students ahead of you."
+Case 3: "Waitlist full, You were not enrolled." 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+Class Number, Class Maximum Size, Student Name, Student Class (Freshman, Sophomore, etc.), Student Major, Student Standing.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+The program front end will ask the user to put their name, class (freshman, sophomore), major, pre-requisites, and class they'd like to enroll in. Example of how it would look down below:
+
+First Name: _____
+Last Name: _____
+Enter Class: **drop down option**
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
 
 
 Name each interface or class and briefly describe its function or purpose.
