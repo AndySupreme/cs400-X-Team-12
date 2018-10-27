@@ -65,7 +65,9 @@ We will use a class for the students in order to know basic information about th
 Name each interface or class and briefly describe its function or purpose.
 
 WaitListGUI - This represents the GUI that lets the students know how close they are in enrolling in the class
+
 StudentInfo - This class will be used for the students so that they can enter information about themselves so that it can be determined where they'll be placed in the queue
+
 WaitList - This class represents the actual wait list of students trying to get into the class. We will implement a priority queue to handle which students will be able to enroll first
 
 
